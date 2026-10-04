@@ -1,2 +1,2 @@
-### Smartphone based Digital Phenotyping for Detecting Mental Health Disorders: A Systematic Review Towards Understanding the Advanced Machine Learning Perspectives
+### Smartphone-based Digital Phenotyping in Mental Health: A Scoping Review with a Focus on Machine Learning
 
