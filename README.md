@@ -68,3 +68,19 @@ Smartphone-based digital phenotyping is expanding but remains dominated by small
 ## Keywords
 
 **Digital phenotyping; Smartphone; Mental health; Artificial intelligence; Machine learning; Deep learning**
+
+---
+
+## Reproducibility
+
+The analyses in this repository were conducted using Python.
+
+The exact Python version used for the analyses is recorded in the `.python-version` file. The required Python packages and their versions are listed in `requirements.txt`. For users working with Conda, an `environment.yml` file is also provided to recreate the full analysis environment more consistently.
+
+### Recreate the Python environment
+#### Option 1: Using `requirements.txt`
+
+1. Check the Python version used:
+
+```bash
+cat .python-version
