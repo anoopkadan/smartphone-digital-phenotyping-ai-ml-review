@@ -1,0 +1,9 @@
+Model abbreviation,Model label,Model column,Number of studies,Percentage,Percentage denominator
+LSTM,Long short-term memory,lstm,15,42.9,35
+Transformer,Transformer,transformer,12,34.3,35
+GRU,Gated recurrent unit,gru,9,25.7,35
+MLP,Simple multi-layer model,simple_multi_layer_model,9,25.7,35
+CNN,Convolutional neural network,cnn,7,20.0,35
+Attention,Attention mechanism,attention,6,17.1,35
+AE,Autoencoder,autoencoders,4,11.4,35
+RNN,Recurrent neural network,rnn,2,5.7,35

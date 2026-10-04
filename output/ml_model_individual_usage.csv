@@ -1,0 +1,18 @@
+Model abbreviation,Model full name,Number of studies,Percentage,Percentage denominator
+RF,Random forest,45,52.9,85
+LoR,Logistic regression,32,37.6,85
+SVM,Support vector machines,30,35.3,85
+XGB,XGBoost,21,24.7,85
+GBM,Gradient boosting machines,17,20.0,85
+ANN,Neural networks,15,17.6,85
+KNN,K-nearest neighbors,13,15.3,85
+LiR,Linear regression,13,15.3,85
+Lasso,Lasso regression,11,12.9,85
+DT,Decision tree,10,11.8,85
+NB,Naïve Bayes,8,9.4,85
+LGBM,LightGBM,7,8.2,85
+EN,Elastic net regression,6,7.1,85
+Ridge,Ridge regression,4,4.7,85
+HMM,Hidden Markov models,2,2.4,85
+CB,CatBoost,1,1.2,85
+GMM,Gaussian mixture models,1,1.2,85

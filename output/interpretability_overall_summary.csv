@@ -1,0 +1,4 @@
+Metric,Number of studies,Percentage denominator,Percentage,Label for plot
+Any interpretability,31,137,22.6,31/137 (22.6%)
+SHAP among interpretable studies,12,31,38.7,12/31 (38.7%)
+SHAP among all included studies,12,137,8.8,12/137 (8.8%)

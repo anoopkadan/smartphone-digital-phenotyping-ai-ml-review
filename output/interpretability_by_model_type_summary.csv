@@ -1,0 +1,3 @@
+Modelling approach,Number of studies in group,Number using any interpretability,Percentage using any interpretability,Number using SHAP,Percentage using SHAP,Label for plot
+Classical ML,83,25,30.1,10,12.0,25/83 (30.1%)
+Deep learning,35,10,28.6,3,8.6,10/35 (28.6%)
